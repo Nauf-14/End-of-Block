@@ -1,0 +1,15 @@
+C:\Users\Notnik_kg\Desktop\Контрольная работа\End-of-Block\Code_Task\obj\Debug\net7.0\Code_Task.csproj.AssemblyReference.cache
+C:\Users\Notnik_kg\Desktop\Контрольная работа\End-of-Block\Code_Task\obj\Debug\net7.0\Code_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Notnik_kg\Desktop\Контрольная работа\End-of-Block\Code_Task\bin\Debug\net7.0\Code_Task.exe
+C:\Users\Notnik_kg\Desktop\Контрольная работа\End-of-Block\Code_Task\bin\Debug\net7.0\Code_Task.deps.json
+C:\Users\Notnik_kg\Desktop\Контрольная работа\End-of-Block\Code_Task\bin\Debug\net7.0\Code_Task.runtimeconfig.json
+C:\Users\Notnik_kg\Desktop\Контрольная работа\End-of-Block\Code_Task\bin\Debug\net7.0\Code_Task.dll
+C:\Users\Notnik_kg\Desktop\Контрольная работа\End-of-Block\Code_Task\bin\Debug\net7.0\Code_Task.pdb
+C:\Users\Notnik_kg\Desktop\Контрольная работа\End-of-Block\Code_Task\obj\Debug\net7.0\Code_Task.AssemblyInfoInputs.cache
+C:\Users\Notnik_kg\Desktop\Контрольная работа\End-of-Block\Code_Task\obj\Debug\net7.0\Code_Task.AssemblyInfo.cs
+C:\Users\Notnik_kg\Desktop\Контрольная работа\End-of-Block\Code_Task\obj\Debug\net7.0\Code_Task.csproj.CoreCompileInputs.cache
+C:\Users\Notnik_kg\Desktop\Контрольная работа\End-of-Block\Code_Task\obj\Debug\net7.0\Code_Task.dll
+C:\Users\Notnik_kg\Desktop\Контрольная работа\End-of-Block\Code_Task\obj\Debug\net7.0\refint\Code_Task.dll
+C:\Users\Notnik_kg\Desktop\Контрольная работа\End-of-Block\Code_Task\obj\Debug\net7.0\Code_Task.pdb
+C:\Users\Notnik_kg\Desktop\Контрольная работа\End-of-Block\Code_Task\obj\Debug\net7.0\Code_Task.genruntimeconfig.cache
+C:\Users\Notnik_kg\Desktop\Контрольная работа\End-of-Block\Code_Task\obj\Debug\net7.0\ref\Code_Task.dll
